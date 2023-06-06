@@ -1,0 +1,51 @@
+.cabecalho{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+.corpo{
+    background-color: #db0808;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rodape{
+    background-color: #fffefe;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.city {
+    background-color: #e10a0a;
+    color: whithe;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 20px;
+    padding: 30px;
+    height: auto;
+    width: 1100px;
+    font-size: medium;
+    color: azure;
+  
+   }
+
+.margin {
+-ms-flex-pack: center!important;
+justify-content: center!important;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap
+
+}
+
+.espaço {
+margin-right: -15px;
+margin-left: -15px;
+margin-top: 1.5rem!important;
+margin-bottom: 0.5rem !important;
+margin-left: 0.5rem;
+text-align: center;
+
+
+}
